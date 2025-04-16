@@ -1,6 +1,17 @@
 ---
 description: A study on the role of spiritual practice in effective service
 icon: '2'
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Chapter Overview: Importance of Sādhana in Book Distribution

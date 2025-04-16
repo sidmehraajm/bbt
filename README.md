@@ -1,6 +1,17 @@
 ---
 description: The Pen Is Mightier Than the Sword
 icon: '1'
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Chapter Overview: Significance of Book Distribution
@@ -21,8 +32,8 @@ icon: '1'
 [the-transformative-power-of-srila-prabhupadas-books-in-becoming-k-a-conscious.md](chapter-overview-significance-of-book-distribution/the-transformative-power-of-srila-prabhupadas-books-in-becoming-k-a-conscious.md)
 {% endcontent-ref %}
 
-{% content-ref url="chapter-overview-significance-of-book-distribution/srila-prabhupada-books-providing-liberation-from-materialism-to-bring-about-harmony-in-human-society.md" %}
-[srila-prabhupada-books-providing-liberation-from-materialism-to-bring-about-harmony-in-human-society.md](chapter-overview-significance-of-book-distribution/srila-prabhupada-books-providing-liberation-from-materialism-to-bring-about-harmony-in-human-society.md)
+{% content-ref url="chapter-overview-significance-of-book-distribution/srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md" %}
+[srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md](chapter-overview-significance-of-book-distribution/srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md)
 {% endcontent-ref %}
 
 {% content-ref url="chapter-overview-significance-of-book-distribution/the-sa-kirtana-movement-a-gateway-to-v-ndavana.md" %}

@@ -14,7 +14,7 @@ icon: hand-fist
 
 ### **2. Chanting with Quality**
 
-* Prioritize **japa (chanting on beads)**—aim for 16 rounds of the Hare Krishna mantra daily.
+* Prioritize **japa (chanting on beads)**—aim for _**16 rounds of the Hare Krishna**_**&#x20;mantra** daily.
 * Focus on **quality over quantity**—chant with attention and devotion.
 * Avoid distractions while chanting; find a peaceful place.
 
@@ -38,15 +38,15 @@ icon: hand-fist
 
 ### **5. Regulated Lifestyle**
 
-* Follow the four regulative principles (no meat-eating, no intoxication, no gambling, and no illicit sex).
-* Maintain a simple and service-oriented life.
-* Organize your time for sadhana, service, work, and rest.
+* Follow the **four regulative principles** (no meat-eating, no intoxication, no gambling, and no illicit sex).
+* Maintain a simple and **service-oriented life.**
+* Organize your time for **sadhana, service, work, and rest.**
 
 
 
 ### **6. Engage in Seva (Devotional Service)**
 
-* Serve in temple activities, book distribution, cooking for devotees, or helping in outreach.
+* Serve through **temple activities, book distribution, cooking for devotees, or helping in outreach.**
 * Use your talents in Krishna’s service (writing, music, preaching, organizing events).
 * The more service you do, the stronger your sadhana becomes.
 
@@ -62,9 +62,9 @@ icon: hand-fist
 
 ### **8. Taking Shelter of the Holy Name**
 
-* Chanting is the **foundation**—always take shelter of the **Holy Name** in difficulties and success.
+* Chanting is the **foundation**—always take shelter of the **Holy Name** in both hardship and success.
 * Develop the mood of surrender **("Krishna, please engage me in Your service").**
-* Chant one chapter of Bhagvad Gita a day, this is called CHAD. Prabhupada encouraged this many, many times in his instructions to his disciples and followers that you should chant at least one chapter of Bhagavad Gita every day. You can join CHAD, you can go to the website, readchad.com.\
+* Chant one chapter of Bhagavad Gita a day, this is called CHAD. Prabhupada encouraged this many, many times in his instructions to his disciples and followers that you should chant at least one chapter of Bhagavad Gita every day. To join the world-wide **CHAD movement**, you can go to the website, **readchad.com**.\
   \
 
 

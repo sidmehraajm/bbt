@@ -6,4 +6,4 @@
 
 #### • Even if you forget you have books, Lord Caitanya will arrange situations to remind you.
 
-#### • As seen in real-life experiences, simply carrying books opens doors for spontaneous distribution.
+#### • As seen in real-life experiences, simply carrying books opens doors for profound distribution experiences.

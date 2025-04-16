@@ -1,5 +1,16 @@
 ---
 icon: '4'
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Chaper Overview:The More you show,The More you Sell
@@ -8,8 +19,8 @@ icon: '4'
 [learning-objectives.md](learning-objectives.md)
 {% endcontent-ref %}
 
-{% content-ref url="understanding-the-principle-of-visibility-in-book-distribution.md" %}
-[understanding-the-principle-of-visibility-in-book-distribution.md](understanding-the-principle-of-visibility-in-book-distribution.md)
+{% content-ref url="understand-the-principle-that-visibility-increases-the-likelihood-of-distribution..md" %}
+[understand-the-principle-that-visibility-increases-the-likelihood-of-distribution..md](understand-the-principle-that-visibility-increases-the-likelihood-of-distribution..md)
 {% endcontent-ref %}
 
 {% content-ref url="the-best-book-distributors-know-how-to-attract-attention.md" %}

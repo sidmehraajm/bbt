@@ -1,10 +1,10 @@
 # Lord Caitanya arranges opportunities for book distribution
 
-#### • Carrying books attracts divine arrangements where people are ready to receive them.
+#### • Carrying books attracts divine arrangements in which ripe fruits appear before you. 
 
 #### • Stories from devotees highlight how unplanned moments turn into major distribution opportunities.
 
-#### • Kṛṣṇa directs wanderers toward devotional service, and devotees must be ready to facilitate this.
+#### • Kṛṣṇa directs wanderers toward devotional service, and devotees must be ready to facilitate their journey home.
 
 #### • The simple act of being prepared allows devotees to act as instruments in Lord Caitanya’s plan.
 

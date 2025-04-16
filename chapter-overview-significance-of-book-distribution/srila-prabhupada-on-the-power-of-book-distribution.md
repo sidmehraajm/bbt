@@ -1,5 +1,16 @@
 ---
 icon: dumbbell
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Srila Prabhupada on the Power of Book Distribution

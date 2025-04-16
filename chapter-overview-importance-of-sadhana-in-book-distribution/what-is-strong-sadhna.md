@@ -8,7 +8,7 @@ icon: book-copy
 
 #### • Strong Sadhna means Proper Attitude
 
-#### • Strong Sadhna is Regularly performed
+#### • Strong Sadhna is Regularly Performed
 
 #### • Strong Sadhna is Attentive
 
