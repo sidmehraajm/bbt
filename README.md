@@ -1,52 +1,34 @@
 ---
-description: The Pen Is Mightier Than the Sword
-icon: '1'
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
+icon: list-check
 ---
 
-# Significance of Book Distribution
+# Chapter Index
 
-
-
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/learning-objectives.md" %}
-[learning-objectives.md](beginner-level-book-distribution-course/significance-of-book-distribution/learning-objectives.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/" %}
+[significance-of-book-distribution](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/srila-prabhupada-on-the-power-of-book-distribution.md" %}
-[srila-prabhupada-on-the-power-of-book-distribution.md](beginner-level-book-distribution-course/significance-of-book-distribution/srila-prabhupada-on-the-power-of-book-distribution.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/importance-of-sadhana-in-book-distribution/" %}
+[importance-of-sadhana-in-book-distribution](beginner-level-book-distribution-course/chapter-index/importance-of-sadhana-in-book-distribution/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/the-written-word-a-catalyst-for-ideologies-revolutions-and-spiritual-preservation.md" %}
-[the-written-word-a-catalyst-for-ideologies-revolutions-and-spiritual-preservation.md](beginner-level-book-distribution-course/significance-of-book-distribution/the-written-word-a-catalyst-for-ideologies-revolutions-and-spiritual-preservation.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/get-books/" %}
+[get-books](beginner-level-book-distribution-course/chapter-index/get-books/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/the-transformative-power-of-srila-prabhupadas-books-in-becoming-k-a-conscious.md" %}
-[the-transformative-power-of-srila-prabhupadas-books-in-becoming-k-a-conscious.md](beginner-level-book-distribution-course/significance-of-book-distribution/the-transformative-power-of-srila-prabhupadas-books-in-becoming-k-a-conscious.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/" %}
+[the-more-you-show-the-more-you-sell](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md" %}
-[srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md](beginner-level-book-distribution-course/significance-of-book-distribution/srila-prabhupada-books-provide-liberation-from-materialism-and-bring-about-harmony-in-human-society.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/you-must-organize/" %}
+[you-must-organize](beginner-level-book-distribution-course/chapter-index/you-must-organize/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/the-sa-kirtana-movement-a-gateway-to-v-ndavana.md" %}
-[the-sa-kirtana-movement-a-gateway-to-v-ndavana.md](beginner-level-book-distribution-course/significance-of-book-distribution/the-sa-kirtana-movement-a-gateway-to-v-ndavana.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/mood-and-method/" %}
+[mood-and-method](beginner-level-book-distribution-course/chapter-index/mood-and-method/)
 {% endcontent-ref %}
 
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/deepen-your-understanding.md" %}
-[deepen-your-understanding.md](beginner-level-book-distribution-course/significance-of-book-distribution/deepen-your-understanding.md)
-{% endcontent-ref %}
-
-{% content-ref url="beginner-level-book-distribution-course/significance-of-book-distribution/quiz-questions-check-your-knowledge.md" %}
-[quiz-questions-check-your-knowledge.md](beginner-level-book-distribution-course/significance-of-book-distribution/quiz-questions-check-your-knowledge.md)
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/" %}
+[how-to-distribute-the-gita-on-its-own-merit](beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/)
 {% endcontent-ref %}
 

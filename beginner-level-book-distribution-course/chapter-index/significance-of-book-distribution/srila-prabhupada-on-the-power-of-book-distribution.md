@@ -15,7 +15,7 @@ layout:
 
 # Srila Prabhupada on the Power of Book Distribution
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>HDG A. C. Bhaktivedanta Swami Prabhupada</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>HDG A. C. Bhaktivedanta Swami Prabhupada</p></figcaption></figure>
 
 ### Srila Prabhupada emphasized:
 
