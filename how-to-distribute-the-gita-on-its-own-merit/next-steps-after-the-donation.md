@@ -27,7 +27,8 @@
 * Optionally shake hands and say:\
   “It’s been a pleasure meeting you.”
 * **Prime directive:** Always leave people with a **good impression.**\
-  \
 
 
-\
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfy5kcxfBhOJU7HKFeRdA1fMgEACEuOFHILSoGTzf2hepcJWspuHfP6OYkJ9bROQEpplJjqk-IfQmTtirbO0R3VIYDb52aGegG313LiVwsSi893JYfmTIFLZVOPomgRLi3HsTRlunVWPG0NAAFLbZE=s2048?key=xZZvezikequE9znMIcroLZNu" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUeZG646kmWVgLPVa3uy4fSARP0ofkBbnVRE8oP5yc7UAmIA14mPdlnNz80eETWHOc-gTp-ZBjcHrBGymg66a_y4EvwAAUdSFAab62V6GtMGI2fktQxuJNcwH7tIVyuz7fwetL38Y7uOaKxok4cpYWo=s2048?key=xZZvezikequE9znMIcroLZNu" alt=""><figcaption></figcaption></figure>

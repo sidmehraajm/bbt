@@ -64,4 +64,3 @@
   * [Next Steps:After The Donation](how-to-distribute-the-gita-on-its-own-merit/next-steps-after-the-donation.md)
   * [Learn a Few come backs](how-to-distribute-the-gita-on-its-own-merit/learn-a-few-come-backs.md)
   * [Video Links](how-to-distribute-the-gita-on-its-own-merit/video-links.md)
-  * [BrainStorming](how-to-distribute-the-gita-on-its-own-merit/brainstorming.md)
