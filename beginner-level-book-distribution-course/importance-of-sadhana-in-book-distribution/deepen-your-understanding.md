@@ -15,9 +15,9 @@ layout:
 
 # Deepen your understanding
 
-## To deepen your understanding of strengthening sadhana (spiritual practice), here are some video resources by Vaisesika Dasa:
+### To deepen your understanding of strengthening sadhana (spiritual practice), here are some video resources by Vaisesika Dasa:
 
-### Tips for Improving Your Sadhana:
+#### Tips for Improving Your Sadhana:
 
 {% embed url="https://www.youtube.com/watch?v=6U68lLPBfHc" %}
 

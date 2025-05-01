@@ -15,7 +15,7 @@ layout:
 
 # The Written Word: A Catalyst for Ideologies, Revolutions, and Spiritual Preservation
 
-### Throughout history, the written word has shaped ideologies, ignited revolutions, and preserved spiritual wisdom in times of weakened memory. Unlike spoken words that fade, written texts endure, influencing generations.
+#### Throughout history, the written word has shaped ideologies, ignited revolutions, and preserved spiritual wisdom in times of weakened memory. Unlike spoken words that fade, written texts endure, influencing generations.
 
 * <mark style="color:orange;">**Formation of Ideologies**</mark>**:** Books like The Origin of Species and The Communist Manifesto sparked new ways of thinking, altering global intellectual landscapes.
 * <mark style="color:orange;">**Revolutions**</mark>: Pamphlets like Common Sense and speeches like “History Will Absolve Me” fueled political upheavals, demonstrating the power of words in toppling empires.

@@ -15,14 +15,14 @@ layout:
 
 # What is Strong Sadhna
 
-#### • Back to Basics
+• Back to Basics
 
-#### • Strong Sadhna means Proper Attitude
+• Strong Sadhna means Proper Attitude
 
-#### • Strong Sadhna is Regularly Performed
+• Strong Sadhna is Regularly Performed
 
-#### • Strong Sadhna is Attentive
+• Strong Sadhna is Attentive
 
-#### • Sadhna should be Goal oriented
+• Sadhna should be Goal oriented
 
 \
