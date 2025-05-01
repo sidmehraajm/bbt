@@ -1,3 +1,7 @@
+---
+icon: graduation-cap
+---
+
 # Learning Objectives
 
 * Understand the importance of maintaining the proper mood while distributing Śrīla Prabhupāda’s books.

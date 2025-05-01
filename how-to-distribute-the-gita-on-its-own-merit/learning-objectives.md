@@ -1,3 +1,7 @@
+---
+icon: head-side-gear
+---
+
 # Learning Objectives
 
 * Learn practical tips and strategies for successful door-to-door Bhagavad Gita distribution.

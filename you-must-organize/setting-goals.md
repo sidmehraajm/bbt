@@ -1,3 +1,7 @@
+---
+icon: bullseye-arrow
+---
+
 # Setting Goals
 
 #### After clarifying a mission, the next step is to set clear goals to achieve it. Śrīla Prabhupāda emphasized the importance of setting and increasing distribution goals.

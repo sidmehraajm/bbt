@@ -1,3 +1,7 @@
+---
+icon: stars
+---
+
 # Qualify
 
 **Start with where you’re from:**\

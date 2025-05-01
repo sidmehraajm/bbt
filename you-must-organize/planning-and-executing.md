@@ -1,3 +1,7 @@
+---
+icon: road
+---
+
 # Planning and Executing
 
 * Following Mahāprabhu means to **"go, go, go, go"** — take action without delay.

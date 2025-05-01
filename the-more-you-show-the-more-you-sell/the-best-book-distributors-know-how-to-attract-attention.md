@@ -1,3 +1,7 @@
+---
+icon: magnet
+---
+
 # The Best Book Distributors Know How to Attract Attention
 
 #### • Śrīla Prabhupāda recognized that artistic presentation helps book distribution.

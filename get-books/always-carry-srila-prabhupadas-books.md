@@ -1,3 +1,7 @@
+---
+icon: book-blank
+---
+
 # Always carry Śrīla Prabhupāda’s books
 
 #### • You can’t distribute books you don’t have!

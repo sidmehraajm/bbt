@@ -1,3 +1,7 @@
+---
+icon: face-grin-beam
+---
+
 # Use Humor
 
 Use Humor

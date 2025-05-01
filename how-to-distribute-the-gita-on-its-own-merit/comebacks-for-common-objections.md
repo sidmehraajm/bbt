@@ -1,3 +1,7 @@
+---
+icon: hand-fist
+---
+
 # Comebacks for Common Objections
 
 * **“I already know about this.”**\

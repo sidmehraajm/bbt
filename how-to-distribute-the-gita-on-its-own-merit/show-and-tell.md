@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass-chart
+---
+
 # Show and Tell
 
 Take the Book Back – “Show and Tell”
@@ -38,25 +42,18 @@ Point to the self-realized sage image.Say: “A spiritual person respects everyo
 * Keep asking questions to keep engagement flowing.\
   Ask: “You’ve heard of karma, right? What does it mean to you?”\
   you in all this?” (Engages them.)\
-  \
 
 
-\
-\
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\
+**Have to check below-**
 
-
-\
-\
-\
-
-
-Mention the Gita has been translated over 400 times.This version is most popular in universities.
+**Mention the Gita has been translated over 400 times.This version is most popular in universities.**
 
 Flip to the front and name-drop:University of Southern California, Georgetown University, etc.
 
-Changing Bodies Illustration
+**Changing Bodies Illustration**
 
-Locate it quickly (practice).Say: “We start here, we end up here, we’re all just passing through.”Ask: “Where are you in all this?” (Engages them.)
+Locate it quickly (practice). Say: “We start here, we end up here, we’re all just passing through.”Ask: “Where are you in all this?” (Engages them.)
 
 Say: “A spiritual person respects everyone because they see the spirit within each heart.”
 

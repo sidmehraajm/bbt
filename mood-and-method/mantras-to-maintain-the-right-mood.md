@@ -1,3 +1,7 @@
+---
+icon: om
+---
+
 # Mantras to Maintain the Right Mood
 
 * Teaching Kṛṣṇa consciousness means giving.

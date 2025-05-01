@@ -1,3 +1,7 @@
+---
+icon: radar
+---
+
 # Radar-How to use your Hand Power
 
 **Core idea**: Life is about response — you send a pulse, and get one back.

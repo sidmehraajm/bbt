@@ -1,3 +1,7 @@
+---
+icon: brain-circuit
+---
+
 # Brainstorming
 
 #### Brainstorming creates synergy and produces better results than individual contemplation. Humans are natural idea generators; brainstorming activates this creative potential.

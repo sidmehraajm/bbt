@@ -1,4 +1,8 @@
-# Next Steps:After The Donation
+---
+icon: angles-right
+---
+
+# Next Steps: After The Donation
 
 **Teach the Maha-Mantra**
 

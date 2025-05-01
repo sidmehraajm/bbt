@@ -1,3 +1,7 @@
+---
+icon: youtube
+---
+
 # Video Links
 
 #### 1.Best Practices To Share Spiritual Knowledge | HG Vaiśeṣika Dāsa

@@ -1,3 +1,7 @@
+---
+icon: solar-system
+---
+
 # Create Systems, Get the Right and Best Tools
 
 A **system** is a set of connected parts forming a complex, functional whole.&#x20;

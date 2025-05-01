@@ -1,3 +1,7 @@
+---
+icon: arrows-to-circle
+---
+
 # Core Takeaways
 
 * Always give a reason for the engagement.

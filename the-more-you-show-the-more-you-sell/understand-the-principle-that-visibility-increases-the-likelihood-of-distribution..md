@@ -1,3 +1,7 @@
+---
+icon: face-thinking
+---
+
 # Understand the principle that visibility increases the likelihood of distribution.
 
 #### • The more people see Śrīla Prabhupāda’s books, the more likely they are to buy and read them.

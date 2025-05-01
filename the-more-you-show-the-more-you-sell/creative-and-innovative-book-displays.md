@@ -1,3 +1,7 @@
+---
+icon: pen-ruler
+---
+
 # Creative and Innovative Book Displays
 
 #### • Placing books in vending machines or Smart Boxes in cafes and stores 

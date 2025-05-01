@@ -1,3 +1,7 @@
+---
+icon: book-blank
+---
+
 # Distributing Bhagavad Gita on it’s own Merit
 
 1. Radar

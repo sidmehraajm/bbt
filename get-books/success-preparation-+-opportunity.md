@@ -1,3 +1,7 @@
+---
+icon: thumbs-up
+---
+
 # Success = Preparation + Opportunity
 
 #### • Book distribution happens when preparation (having books) meets opportunity (meeting a receptive person).

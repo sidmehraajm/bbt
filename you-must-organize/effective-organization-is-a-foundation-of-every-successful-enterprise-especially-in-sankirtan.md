@@ -1,3 +1,7 @@
+---
+icon: sitemap
+---
+
 # Effective Organization is a foundation of every successful enterprise,especially in Sankirtan
 
 * **Organized communities sell significantly more of Śrīla Prabhupāda’s books** compared to unorganized ones – by thousands or even tens of thousands.

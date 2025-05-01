@@ -1,3 +1,7 @@
+---
+icon: hand-holding-hand
+---
+
 # Distributing transcendental knowledge is nonviolence
 
 #### • People suffer due to ignorance; providing spiritual knowledge is the cure.

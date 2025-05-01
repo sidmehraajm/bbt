@@ -1,3 +1,7 @@
+---
+icon: hand-holding-circle-dollar
+---
+
 # Donation
 
 **Selling vs Donation**

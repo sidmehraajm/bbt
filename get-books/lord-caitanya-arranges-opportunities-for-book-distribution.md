@@ -1,3 +1,7 @@
+---
+icon: hands-praying
+---
+
 # Lord Caitanya arranges opportunities for book distribution
 
 #### • Carrying books attracts divine arrangements in which ripe fruits appear before you. 

@@ -1,3 +1,7 @@
+---
+icon: handshake-simple
+---
+
 # Trust the Hand
 
 **Trust the hand:** People may hesitate mentally, but their hand often reaches out instinctively.\

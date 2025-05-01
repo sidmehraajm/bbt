@@ -1,3 +1,7 @@
+---
+icon: bullseye-pointer
+---
+
 # Main Objective in Book Distribution
 
 #### Distributing books is a great honor and privilege. The primary goal is to leave everyone with a good impression — not just to distribute books. People will remember and talk about the experience they had with you.

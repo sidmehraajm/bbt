@@ -2,6 +2,7 @@
 description: >-
   A mission statement is an action-oriented outline of how your team can fulfill
   its potential.
+icon: bullseye
 ---
 
 # Mission Statement

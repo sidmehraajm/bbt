@@ -1,3 +1,7 @@
+---
+icon: arrow-progress
+---
+
 # Method
 
 #### Use scripture to bolster your distribution, read and hear from the books daily to present with realization and authenticity.

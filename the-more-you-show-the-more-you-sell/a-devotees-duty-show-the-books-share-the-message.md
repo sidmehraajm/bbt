@@ -1,3 +1,7 @@
+---
+icon: user-check
+---
+
 # A Devotee’s Duty: Show the Books, Share the Message
 
 #### If devotees don’t show Śrīla Prabhupāda’s books, who will?
