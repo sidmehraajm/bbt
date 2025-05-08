@@ -15,11 +15,7 @@ layout:
 
 # Quiz Questions: Check your knowledge
 
-{% embed url="https://www.goconqr.com/en-US/flashcard/40408659/tsdt" %}
-
-
-
-
+{% embed url="https://docs.google.com/presentation/d/1OUohf72wu5n7IEHvS8rgWVc-X3kmG46ELnM8oxVTYZA/edit?usp=sharing" %}
 
 
 
