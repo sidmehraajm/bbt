@@ -23,6 +23,9 @@ layout:
 
 • Strong Sadhna is Attentive
 
-• Sadhna should be Goal oriented
+• Strong Sadhana is Goal Oriented
+
+\
+
 
 \

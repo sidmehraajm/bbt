@@ -25,4 +25,4 @@ layout:
 
 • Śrīla Prabhupāda dedicated his life to writing these books; distributing them is our service to him.
 
-• Devotees who invest in books naturally develop creative ways to share them..
+• Devotees who invest in books naturally develop creative ways to share them.

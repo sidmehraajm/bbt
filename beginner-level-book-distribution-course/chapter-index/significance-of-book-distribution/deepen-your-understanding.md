@@ -15,8 +15,6 @@ layout:
 
 # Deepen your understanding
 
-To deepen your understanding of strengthening sadhana (spiritual practice), here are some video resources by Vaisesika Dasa:
+To deepen your understanding of the significance of book distribution, here are some video resources by Vaisesika Dasa:
 
-
-
-{% embed url="https://www.youtube.com/watch?v=UGrzB8LkMQ4" %}
+{% embed url="https://www.youtube.com/watch?t=913s&v=UGrzB8LkMQ4" %}
