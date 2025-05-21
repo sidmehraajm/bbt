@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction : Book Distribution Course](README.md)
+* [Book Distribution 101: Start Form](book-distribution-101-start-form.md)
 
 ## Beginner Level Book Distribution Course
 
