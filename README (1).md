@@ -15,8 +15,8 @@ layout:
 
 # Chapter Index
 
-{% content-ref url="beginner-level-book-distribution-course/chapter-index/book-distribution-101-start-form.md" %}
-[book-distribution-101-start-form.md](beginner-level-book-distribution-course/chapter-index/book-distribution-101-start-form.md)
+{% content-ref url="book-distribution-101-start-form.md" %}
+[book-distribution-101-start-form.md](book-distribution-101-start-form.md)
 {% endcontent-ref %}
 
 {% content-ref url="beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/" %}
@@ -45,5 +45,9 @@ layout:
 
 {% content-ref url="beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/" %}
 [how-to-distribute-the-gita-on-its-own-merit](beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/)
+{% endcontent-ref %}
+
+{% content-ref url="beginner-level-book-distribution-course/chapter-index/beginner-level-completion-form.md" %}
+[beginner-level-completion-form.md](beginner-level-book-distribution-course/chapter-index/beginner-level-completion-form.md)
 {% endcontent-ref %}
 

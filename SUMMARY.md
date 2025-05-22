@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Introduction : Book Distribution Course](README.md)
+* [Book Distribution 101: Start Form](book-distribution-101-start-form.md)
 
 ## Beginner Level Book Distribution Course
 
 * [Chapter Index](<README (1).md>)
-  * [Book Distribution 101: Start Form](beginner-level-book-distribution-course/chapter-index/book-distribution-101-start-form.md)
   * [Significance of Book Distribution](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/README.md)
     * [Learning Objectives](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/learning-objectives.md)
     * [Srila Prabhupada on the Power of Book Distribution](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/srila-prabhupada-on-the-power-of-book-distribution.md)
@@ -68,6 +68,7 @@
     * [Next Steps: After The Donation](beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/next-steps-after-the-donation.md)
     * [Learn a Few come backs](beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/learn-a-few-come-backs.md)
     * [Video Links](beginner-level-book-distribution-course/chapter-index/how-to-distribute-the-gita-on-its-own-merit/video-links.md)
+  * [Beginner Level Completion Form](beginner-level-book-distribution-course/chapter-index/beginner-level-completion-form.md)
 
 ## Intermediate Level Book Distribution Course
 
