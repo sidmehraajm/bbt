@@ -1,7 +1,12 @@
 ---
 description: A study on the role of spiritual practice in effective service
 icon: '2'
+cover: ../../../.gitbook/assets/chapter2.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -14,7 +19,7 @@ layout:
     visible: false
 ---
 
-# Chapter Overview: Importance of Sādhana in Book Distribution
+# Importance of Sādhana in Book Distribution
 
 {% content-ref url="learning-objectives.md" %}
 [learning-objectives.md](learning-objectives.md)
