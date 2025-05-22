@@ -1,7 +1,12 @@
 ---
 description: The Pen Is Mightier Than the Sword
 icon: '1'
+cover: ../../../.gitbook/assets/Frame 1.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
