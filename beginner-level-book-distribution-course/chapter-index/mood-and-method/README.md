@@ -1,6 +1,11 @@
 ---
 icon: '6'
+cover: ../../../.gitbook/assets/c6.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
