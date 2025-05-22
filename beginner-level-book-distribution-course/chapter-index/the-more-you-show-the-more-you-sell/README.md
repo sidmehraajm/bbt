@@ -1,6 +1,11 @@
 ---
 icon: '4'
+cover: ../../../.gitbook/assets/c4.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -13,7 +18,9 @@ layout:
     visible: false
 ---
 
-# The More you show,The More you Sell
+# The More you show, The More you Sell
+
+
 
 {% content-ref url="learning-objectives.md" %}
 [learning-objectives.md](learning-objectives.md)

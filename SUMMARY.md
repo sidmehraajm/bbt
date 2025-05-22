@@ -31,7 +31,7 @@
     * [Lord Caitanya arranges opportunities for book distribution](beginner-level-book-distribution-course/chapter-index/get-books/lord-caitanya-arranges-opportunities-for-book-distribution.md)
     * [Video Links](beginner-level-book-distribution-course/chapter-index/get-books/video-links.md)
     * [Quiz Questions](beginner-level-book-distribution-course/chapter-index/get-books/quiz-questions.md)
-  * [The More you show,The More you Sell](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/README.md)
+  * [The More you show, The More you Sell](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/README.md)
     * [Learning Objectives](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/learning-objectives.md)
     * [Understand the principle that visibility increases the likelihood of distribution.](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/understand-the-principle-that-visibility-increases-the-likelihood-of-distribution..md)
     * [The Best Book Distributors Know How to Attract Attention](beginner-level-book-distribution-course/chapter-index/the-more-you-show-the-more-you-sell/the-best-book-distributors-know-how-to-attract-attention.md)
