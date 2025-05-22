@@ -1,6 +1,11 @@
 ---
 icon: list-check
+cover: .gitbook/assets/main page (1).png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
