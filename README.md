@@ -18,9 +18,9 @@ layout:
 
 # Introduction : Book Distribution Course
 
-<figure><img src=".gitbook/assets/Prabhupada touches book to forehead_1920x1080.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Prabhupada touches book to forehead_1920x1080.jpg" alt=""><figcaption><p><em>His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</em></p></figcaption></figure>
 
-## Beginner Level Book Distribution Course
+## Beginner Level Book Distribution Course:
 
 {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
