@@ -45,8 +45,8 @@ layout:
 [key-learnings.md](key-learnings.md)
 {% endcontent-ref %}
 
-{% content-ref url="quiz-questions-check-your-knowledge.md" %}
-[quiz-questions-check-your-knowledge.md](quiz-questions-check-your-knowledge.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 

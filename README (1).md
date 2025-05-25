@@ -20,8 +20,8 @@ layout:
 
 # Chapter Index
 
-{% content-ref url="book-distribution-101-start-form.md" %}
-[book-distribution-101-start-form.md](book-distribution-101-start-form.md)
+{% content-ref url="beginner-level-book-distribution-course/readme-1/book-distribution-101-start-form.md" %}
+[book-distribution-101-start-form.md](beginner-level-book-distribution-course/readme-1/book-distribution-101-start-form.md)
 {% endcontent-ref %}
 
 {% content-ref url="beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/" %}

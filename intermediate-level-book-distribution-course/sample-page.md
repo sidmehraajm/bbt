@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Sample Page
 
 Hare Krishna
