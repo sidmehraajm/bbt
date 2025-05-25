@@ -15,4 +15,4 @@ layout:
 
 # Flashcards: Master Your Knowledge
 
-{% embed url="https://quizlet.com/in/1047896027/get-books-flash-cards/?i=6l2jid&x=1jqt" %}
+{% embed url="https://quizlet.com/in/1047900076/gita-flash-cards/?i=6l2jid&x=1jqt" %}
