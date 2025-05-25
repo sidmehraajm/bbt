@@ -5,7 +5,7 @@
 ## Beginner Level Book Distribution Course
 
 * [Level 1 : Chapter Index](<README (1).md>)
-  * [Book Distribution 101: Start Form](beginner-level-book-distribution-course/readme-1/book-distribution-101-start-form.md)
+  * [Start Form](beginner-level-book-distribution-course/readme-1/book-distribution-101-start-form.md)
   * [Significance of Book Distribution](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/README.md)
     * [Learning Objectives](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/learning-objectives.md)
     * [Srila Prabhupada on the Power of Book Distribution](beginner-level-book-distribution-course/chapter-index/significance-of-book-distribution/srila-prabhupada-on-the-power-of-book-distribution.md)
